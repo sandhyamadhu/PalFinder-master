@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hotline-android-1.2.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/e408bc98da8e70d1f9bf23fb9b7391cb52d73776/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/e408bc98da8e70d1f9bf23fb9b7391cb52d73776/output/jars/libs/hotline.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/e408bc98da8e70d1f9bf23fb9b7391cb52d73776/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
